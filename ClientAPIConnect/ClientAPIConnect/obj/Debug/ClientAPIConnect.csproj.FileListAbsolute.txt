@@ -1,0 +1,16 @@
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.AssemblyReference.cache
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.CoreCompileInputs.cache
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.exe.config
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.exe
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.pdb
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.exe
+C:\Users\zavad\source\repos\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.pdb
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.exe.config
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.exe
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\bin\Debug\ClientAPIConnect.pdb
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.AssemblyReference.cache
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.csproj.CoreCompileInputs.cache
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.exe
+C:\Users\zavad\source\repos\GitHub\Bp_Fuzzer\ClientAPIConnect\ClientAPIConnect\obj\Debug\ClientAPIConnect.pdb
